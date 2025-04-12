@@ -124,4 +124,4 @@ mean_i=arr.mean()
 std_i=arr.std(ddof=1)
 z_score_i=(arr-mean_i)/std_i
 outlier=arr[np.abs(z_score_i)>3]
-print(outlier)
+print("Outlier is",outlier)
