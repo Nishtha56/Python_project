@@ -26,13 +26,13 @@ IQR method used to detect over- and under-priced products; visualized with a box
 8. Outlier Detection - Competitor Price
 Z-score method used to detect outliers in competitor pricing.
 
-📊 Tools & Libraries
+📊 Tools & Libraries:
 pandas
 numpy
 matplotlib
 seaborn
 
-📈 Output
+📈 Output:
 The script outputs statistical summaries and visualizations that help in understanding:
 Product trends
 Pricing structures
