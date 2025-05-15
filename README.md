@@ -11,13 +11,13 @@ This project performs a comprehensive analysis of a market research dataset usin
 - Outlier Detection - Market Price
 
 # 📊 Tools & Libraries:
-pandas
-numpy
-matplotlib
-seaborn
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 # 📈 Output:
 The script outputs statistical summaries and visualizations that help in understanding:
-Product trends
-Pricing structures
-Market anomalies
+- Product trends
+- Pricing structures
+- Market anomalies
